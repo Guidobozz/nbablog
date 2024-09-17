@@ -1,0 +1,7 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap; /* Para permitir que las tarjetas se envuelvan */
+    justify-content: space-between; /* Distribuye el espacio entre las tarjetas */
+    gap: 20px; /* Espacio entre las tarjetas */
+    padding: 20px;
+}

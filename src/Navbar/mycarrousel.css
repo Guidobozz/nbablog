@@ -1,0 +1,5 @@
+.carouzel{
+    max-width: 40%; /* Ajusta el ancho del carrusel */
+    margin: 0 auto; /* Centra el carrusel horizontalmente */
+    height: 400px;
+}
