@@ -247,13 +247,38 @@ const newsdata = [
 
 <h2>¿El Último Baile?</h2>
 <p>Con todo en juego, los fanáticos de la NBA esperan con ansias lo que podría ser la última gran temporada de LeBron James. ¿Podrá "El Rey" liderar a los Lakers hacia otro título? El escenario está listo, y el mundo del baloncesto está preparado para ver si LeBron puede hacer historia una vez más.</p>
-
-    
-    
-    
-    
     `,
     category: 'players'
+  },
+  {
+    id: '4',
+    title: 'La Dinastía Incomparable: Los Boston Celtics de los Años 60',
+    description: 'Analisis a profundidad de una de las mejores dinastias',
+    imageUrl: 'https://bostoncelticshistory.com/wp-content/uploads/2021/08/The-1960-61-Boston-Celtics-scaled.jpg',
+    content: `
+    <p>En la década de los 60, los Boston Celtics dominaron la NBA de una manera nunca antes vista en la historia del baloncesto. Bajo la dirección del legendario entrenador Red Auerbach y liderados en la cancha por Bill Russell, los Celtics no solo establecieron una dinastía, sino que también redefinieron cómo se jugaba el baloncesto. Ganaron 9 campeonatos en 10 años, convirtiéndose en el estándar de excelencia y competitividad en el deporte.</p>
+    <h1>Bill Russell: El Alma de los Celtics</h1>
+    <p>Bill Russell fue el pilar de aquella dinastía. Conocido por su inteligencia en la cancha y su capacidad para elevar a sus compañeros, Russell se convirtió en una leyenda no solo por sus números impresionantes, sino por su liderazgo. Su contribución fue crucial para mantener el enfoque del equipo en momentos clave de las finales, y su habilidad defensiva fue insuperable. Russell terminó su carrera con 11 títulos de la NBA, un récord que aún sigue vigente.</p> 
+    <img src="https://media.cnn.com/api/v1/images/stellar/prod/220731154559-01-bill-russell-obit-gallery-restricted.jpg?c=original" alt="Logo de los Lakers" />
+    <p>Russell no solo fue un gigante en la cancha, sino también fuera de ella. En 2022, la comunidad del baloncesto y el mundo en general lamentaron su fallecimiento el 31 de julio. Su legado va más allá del deporte, habiendo sido un activista incansable por los derechos civiles en un tiempo donde se necesitaba valentía para alzar la voz. Su ausencia deja un vacío, pero su impacto sigue resonando en cada rincón de la NBA.</p>
+    <p>Uno de los capítulos más emocionantes de los años 60 fue la feroz rivalidad entre Bill Russell y Wilt Chamberlain. Estos dos titanes del baloncesto personificaban el choque entre la defensa impenetrable y el ataque inigualable. Chamberlain, conocido por sus habilidades ofensivas prodigiosas y su capacidad para acumular puntos a un ritmo inédito, se enfrentó repetidamente a Russell en los playoffs, generando uno de los duelos más legendarios en la historia del deporte.</p>
+    <img src="https://library.sportingnews.com/2022-01/pivotes_1r7ukg0rqrkgu14dv50j7j0opw.jpg" alt="Logo de los Lakers" />
+    <p>Aunque Chamberlain superaba a Russell en estatura y en estadísticas individuales, fue Russell quien siempre consiguió el último golpe en las postemporadas, llevándose más títulos en los enfrentamientos directos. Las luchas en la pintura entre estos dos gigantes del baloncesto siguen siendo un símbolo de la época dorada de la NBA. Mientras Chamberlain dominaba en el aspecto físico y ofensivo, Russell siempre encontraba la manera de contenerlo en los momentos más cruciales.</p>
+    <h1>Red Auerbach y la gestión maestra del equipo: </h1>
+    <p>Auerbach fue pionero en la creación de equipos cohesionados que supieron aprovechar al máximo el talento disponible. Su famosa "victoria con el puro" (encender un puro en el banco cuando su equipo estaba por ganar) se convirtió en una imagen icónica de su confianza en su equipo.</p>
+    <img src="https://egmcigars.com/cdn/shop/articles/arnold_red_auerbach_basketball_coach_and_cigar_enthusiast_egm_cigars_4.jpg?v=1551785661" alt="Logo de los Lakers" />
+    <h1>Los Jugadores Clave y el Impacto en la NBA</h1>
+    <p>El éxito de los Boston Celtics en los años 60 no hubiera sido posible sin una plantilla de jugadores legendarios que acompañaron a Bill Russell en su travesía. Entre ellos destacan figuras como John Havlicek, Bob Cousy, Sam Jones y Tom Heinsohn, todos jugadores que no solo brillaron individualmente, sino que también se complementaron a la perfección dentro del equipo. Havlicek, conocido por su energía incansable y su capacidad para realizar jugadas cruciales, terminó su carrera como uno de los anotadores más prolíficos de la NBA. Cousy, un pionero en el arte de distribuir el balón, fue el motor ofensivo del equipo durante los primeros años de la dinastía. Sam Jones, por su parte, fue el guardia confiable que parecía nunca fallar en los momentos decisivos. Y Heinsohn, tanto como jugador y luego como entrenador, dejó una huella indeleble en la franquicia.</p>
+    <p>Cada uno de estos jugadores dejó una marca imborrable en la historia del baloncesto y todos ellos fueron honrados con un lugar en el Salón de la Fama. La cohesión y el espíritu de equipo que mostraron los Celtics de esa época sentaron las bases de lo que sería un equipo casi imbatible durante la década.</p>
+    <p>El impacto de estos jugadores, junto con la hegemonía de los Celtics, no solo se limitó a la cantidad de campeonatos ganados, sino que elevó significativamente el nivel de competencia en la NBA. Su dominio obligó a los demás equipos a mejorar y a innovar, marcando el comienzo de una era de evolución estratégica en el baloncesto. Los Celtics de los años 60 no solo dejaron una dinastía, sino que transformaron la liga y forzaron a otros a buscar nuevas formas de destronarlos.</p>
+    <img src="https://basquetplus.com/sites/default/files/main/articles/TDGarden-NBC.jpg" alt="Logo de los Lakers" />
+    <p>El legado de los Boston Celtics de los años 60 sigue vivo hoy en día. No solo son recordados por sus múltiples campeonatos, sino por haber establecido una dinastía que se estudia y admira. Su impacto en la cultura del baloncesto es incalculable, y su enfoque en la defensa y el juego en equipo sigue siendo la piedra angular de muchos equipos exitosos en la NBA.</p>
+    `,
+
+
+
+    category: 'history'
+
   },
   
 ];
