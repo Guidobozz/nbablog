@@ -254,7 +254,7 @@ const newsdata = [
     id: '4',
     title: 'La Dinastía Incomparable: Los Boston Celtics de los Años 60',
     description: 'Analisis a profundidad de una de las mejores dinastias',
-    imageUrl: 'https://bostoncelticshistory.com/wp-content/uploads/2021/08/The-1960-61-Boston-Celtics-scaled.jpg',
+    imageUrl: 'https://img.europapress.es/fotoweb/fotonoticia_20200523094732_1200.jpg',
     content: `
     <p>En la década de los 60, los Boston Celtics dominaron la NBA de una manera nunca antes vista en la historia del baloncesto. Bajo la dirección del legendario entrenador Red Auerbach y liderados en la cancha por Bill Russell, los Celtics no solo establecieron una dinastía, sino que también redefinieron cómo se jugaba el baloncesto. Ganaron 9 campeonatos en 10 años, convirtiéndose en el estándar de excelencia y competitividad en el deporte.</p>
     <h1>Bill Russell: El Alma de los Celtics</h1>
@@ -354,10 +354,30 @@ const newsdata = [
     <p>La temporada 2012-2013 consolidó a LeBron como uno de los mejores jugadores de todos los tiempos. Su dominio en ambos extremos de la cancha y su capacidad para mejorar a todos los que lo rodeaban lo hicieron casi imparable.</p>
 
     <h1>4. Shaquille O'Neal – Temporada 1999-2000 (Los Angeles Lakers)</h1>
-
+    <p>Estadisticas</p>
+    <ul>
+    <li>Puntos por partido: 29.7</li>
+    <li>Rebotes por partido: 13.6</li>
+    <li>Bloqueos por partido: 3.0</li>
+    <li>Premios: MVP de la temporada regular y MVP de las Finales</li>
+    </ul>
+    <img src="https://s22928.pcdn.co/wp-content/uploads/2018/06/Shaquille-ONeal-3.jpg" alt="Logo de los Lakers" />
+    <p> Shaquille O'Neal dominó por completo la temporada 1999-2000, llevando a los Lakers a su primer campeonato en 12 años. Fue una fuerza imparable en la pintura, y su combinación de tamaño, fuerza y habilidad fue simplemente demasiado para cualquier defensor. En las Finales, promedió 38 puntos y 16.7 rebotes por partido, aplastando a los Indiana Pacers y asegurando el título para los Lakers.</p>
+    <p>Shaq redefinió el rol del pívot en la NBA moderna, mostrando que un hombre grande podía dominar y liderar a un equipo hacia el campeonato. Su legado en los Lakers comenzó en esta temporada y continuó con otros dos títulos consecutivos.</p>
     
-    
-    
+    <h1>5. Tim Duncan – Temporada  2002-2003 (San Antonio Spurs) </h1>
+    <p>Estadisticas</p>
+    <ul>
+    <li>Puntos por partido: 23.3</li>
+    <li>Rebotes por partido: 12.9</li>
+    <li>Tapones por partido: 2.9</li>
+    <li>Premios: MVP de la temporada regular y MVP de las finales</li>
+    </ul>
+    <img src="https://cdn.nba.com/manage/2021/06/duncan-finals-MVP.jpg" alt="Logo de los Lakers" />
+    <p>La temporada 2002-03 de Tim Duncan fue la culminación de su dominio silencioso pero implacable en la NBA.  A lo largo de la temporada, demostró una consistencia increíble en ambos extremos de la cancha, siendo tan efectivo en la defensa como en la ofensiva. Su habilidad para controlar los partidos desde la pintura, con su distintiva calma y eficacia, le permitió ganar su segundo MVP consecutivo de la temporada regular.</p>
+    <p>Además de su rendimiento individual, Duncan fue clave en la postemporada, llevando a los Spurs al campeonato y ganando el premio MVP de las Finales tras vencer a los New Jersey Nets en seis partidos. Su actuación en el Juego 6 de las Finales, con 21 puntos, 20 rebotes, 10 asistencias y 8 tapones, es recordada como una de las mejores en la historia de las Finales, y estuvo a solo dos tapones de lograr un cuádruple-doble en un partido crucial.</p>
+    <p>El impacto de Duncan en esa temporada fue monumental. En un período en el que la NBA estaba en transición tras la retirada de Michael Jordan y el auge de nuevas estrellas, Duncan se estableció como la cara de los Spurs y uno de los jugadores más dominantes de su generación. En una liga que seguía valorando el juego físico en la pintura, Duncan mostró que el juego de pies, la inteligencia táctica y la precisión técnica podían ser tan efectivos como la pura fuerza física.</p>
+    <p>Su estilo, conocido como "The Big Fundamental", cambió la narrativa en torno a cómo un jugador de su posición podía dominar el juego. No era un jugador que acaparaba titulares con jugadas espectaculares, pero su constancia y capacidad para elevar el nivel de sus compañeros de equipo lo hicieron indispensable para el éxito de San Antonio. Su impacto se extiende más allá de las estadísticas: bajo su liderazgo, los Spurs establecieron un modelo de equipo que sería sinónimo de éxito durante las próximas dos décadas, ganando cinco campeonatos en total. Duncan fue la base de ese éxito sostenido, y la temporada 2002-03 fue una muestra clara de su dominio y su impacto duradero en la NBA.</p>
     
     `,
     category: `players` ,
