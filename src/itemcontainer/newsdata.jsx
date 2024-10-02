@@ -274,13 +274,94 @@ const newsdata = [
     <img src="https://basquetplus.com/sites/default/files/main/articles/TDGarden-NBC.jpg" alt="Logo de los Lakers" />
     <p>El legado de los Boston Celtics de los años 60 sigue vivo hoy en día. No solo son recordados por sus múltiples campeonatos, sino por haber establecido una dinastía que se estudia y admira. Su impacto en la cultura del baloncesto es incalculable, y su enfoque en la defensa y el juego en equipo sigue siendo la piedra angular de muchos equipos exitosos en la NBA.</p>
     `,
-
-
-
     category: 'history'
 
   },
-  
+  {
+    id: '5',
+    title: 'El renacimiento del "big men" en la NBA:',
+    description: 'Una mirada a cómo los pívots y jugadores altos, como Joel Embiid y Nikola Jokić, han redefinido el papel del centro en el juego moderno.',
+    imageUrl: 'https://cdn.vox-cdn.com/thumbor/UwwW0OXT3ImkieWobBls73LCPFw=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390257/1239219237.jpg',
+    content: `
+    <h1>El Renacimiento de los "Big Men" en la NBA: De Gigantes Tradicionales a Jugadores Versátiles</h1>
+    <h2>La Era de los Pívots Clásicos</h2>
+    <p>En las primeras décadas de la NBA, el baloncesto se centraba principalmente en la zona de la pintura, y los pívots jugaban un rol esencial en este dominio. Equipos exitosos construían sus estrategias alrededor de hombres altos y fuertes que podían dominar el poste bajo, asegurar rebotes, bloquear tiros y ser anclas defensivas.</p>
+    <p>Wilt Chamberlain y Bill Russell fueron dos de los primeros pívots en definir esta era. Wilt, conocido por sus hazañas físicas inigualables y su capacidad para anotar a voluntad, fue el único jugador en la historia en promediar más de 50 puntos por partido en una temporada. Mientras tanto, Bill Russell, con su enfoque en la defensa y el trabajo en equipo, llevó a los Boston Celtics a ganar 11 campeonatos en 13 años. Ambos ejemplificaron la importancia del "hombre grande" en la pintura, donde su presencia física era insuperable.</p>
+    <p>Otros grandes nombres como Kareem Abdul-Jabbar, con su famoso "sky hook", dominaron las décadas de los 70 y 80. Kareem llevó su juego a otro nivel, con un movimiento ofensivo que era casi imparable y que lo convirtió en el máximo anotador en la historia de la NBA (hasta que fue superado por LeBron James). Jugadores como Moses Malone, Patrick Ewing y David Robinson continuaron esta tradición de dominancia en la pintura en los años 80 y 90, llevando el juego de poste bajo a nuevas alturas.</p>
+    <img src="https://i0.wp.com/www.basket4us.com/blog/wp-content/uploads/2012/11/51817423.jpg" alt="Logo de los Lakers" />
+    <p>El estilo de estos pívots era físico, basado en su tamaño y fortaleza. El juego interior era clave en la mayoría de los equipos, y el pívot se convertía en el foco de las ofensivas y las defensas. A menudo, se veían batallas épicas bajo el aro, donde los jugadores luchaban por establecerse en la pintura y sacar ventaja con su altura y envergadura.</p>
+    <h1>La Transición de los 2000: El Comienzo del Cambio</h1>
+    <p>En la década de los 2000, el juego comenzó a cambiar lentamente. Con el surgimiento de Shaquille O'Neal, el último gran pívot de la vieja escuela, la NBA aún mantenía la importancia del juego interior. Shaq, con su combinación de fuerza, velocidad y habilidades, fue una fuerza imparable en la pintura, liderando a los Lakers a tres campeonatos consecutivos. Sin embargo, hacia finales de la década, se notaba una creciente preferencia por el juego rápido y el tiro exterior, lo que marcó el comienzo de la transformación en el rol del pívot.</p>
+    <img src="https://cdn.nba.com/teams/legacy/i.cdn.turner.com/drp/nba/lakers/sites/default/files/gettyimages.71490907.jpg" alt="Logo de los Lakers" />
+    <p>Dirk Nowitzki fue uno de los primeros jugadores altos en cambiar el paradigma del pívot clásico. Aunque técnicamente era un ala-pívot, su habilidad para lanzar desde el perímetro y jugar lejos del aro influyó enormemente en la evolución del rol de los jugadores grandes. Dirk, con su famoso tiro a una pierna, demostró que los hombres altos podían ser efectivos jugando desde fuera, abriendo la cancha para sus compañeros.</p>
+    <img src="https://media.rpctv.com/p/a00adefdb1ca65f223fee6cfe01f71c3/adjuntos/314/imagenes/017/670/0017670952/855x0/smart/fiwi9vvwuaqvogw-1-1jpg.jpg" alt="Logo de los Lakers" />
+    <p>Equipos como los Phoenix Suns de Steve Nash y Amar’e Stoudemire también comenzaron a popularizar un estilo de juego rápido, enfocado en el "pick and roll" y el tiro rápido. Stoudemire, aunque era un pívot atlético que jugaba en la pintura, también mostró destellos de un jugador más versátil que podía correr la cancha y anotar en transición.</p>
+    <h1>La Revolución del Tiro de Tres y el "Stretch Five"</h1>
+    <p>A medida que el juego evolucionó, la introducción y el éxito del tiro de tres puntos cambió drásticamente la forma en que los equipos construían sus ofensivas. Los entrenadores comenzaron a buscar jugadores que pudieran abrir la cancha y estirar la defensa. Esto llevó a la aparición del concepto del "stretch five", un pívot capaz de lanzar desde la línea de tres puntos, creando más espacio para que los tiradores y conductores operaran.</p>
+    <p>Jugadores como Marc Gasol, Brook Lopez y Al Horford ejemplificaron esta transformación. Gasol, que comenzó su carrera como un pívot tradicional en los Memphis Grizzlies, desarrolló un tiro confiable desde el perímetro que lo hizo aún más valioso en la liga moderna. Brook Lopez, que solía jugar exclusivamente en la pintura, se reinventó como un tirador de tres puntos con los Milwaukee Bucks, adaptándose perfectamente al esquema que rodeaba a Giannis Antetokounmpo.</p>
+    <p>El surgimiento de Nikola Jokic y Joel Embiid terminó de consolidar esta nueva era de los pívots. Jokic, apodado "The Joker", no solo es uno de los mejores pasadores de la liga, sino que también puede lanzar desde el perímetro y manejar el balón como un base. Su visión de juego y capacidad para distribuir desde cualquier posición lo han convertido en un "point center", un concepto revolucionario en el baloncesto.</p>
+    <img src="https://media.cnn.com/api/v1/images/stellar/prod/230613122218-04-nikola-jokic-nba-finals-mvp.jpg?c=original" alt="Logo de los Lakers" />
+    <p>Por su parte, Embiid combina la dominancia física de un pívot clásico con una habilidad impresionante para anotar desde media y larga distancia. Este tipo de versatilidad era impensable en los años de Chamberlain o Russell, pero hoy es esencial para cualquier pívot de élite en la NBA.</p>
+    <img src="https://media.phillyvoice.com/media/images/USATSI_20611575.7fdf5f31.fill-735x490.jpg" alt="Logo de los Lakers" />
+    <h1>Factores que Impulsaron la Evolución</h1>
+    <p>Varios factores contribuyeron a este cambio. La regla del "hand-checking", eliminada en 2004, facilitó que los jugadores más pequeños y rápidos tuvieran más espacio para operar, lo que obligó a los pívots a adaptarse defensivamente. A medida que los equipos comenzaron a lanzar más triples y a jugar a un ritmo más rápido, los pívots también tuvieron que volverse más móviles y desarrollar su rango de tiro para mantenerse relevantes.</p>
+    <p>Además, el éxito de equipos como los Golden State Warriors, que construyeron su dinastía alrededor del tiro exterior y el juego rápido, también influyó en la evolución del rol de los pívots. Jugadores como Draymond Green, aunque no es un pívot tradicional, ha jugado como un "center" en formaciones pequeñas, mostrando que incluso los hombres grandes deben ser capaces de defender múltiples posiciones y contribuir de manera versátil en la ofensiva.</p>
+    <h1>El Futuro de los Pívots</h1>
+    <p>Hoy, el rol del pívot está más diversificado que nunca. Mientras que algunos, como Rudy Gobert, continúan jugando un estilo más tradicional, centrado en la defensa y los rebotes, otros como Jokic y Embiid representan la nueva ola de pívots modernos que pueden hacer prácticamente todo en la cancha.</p>
+    <p>El futuro parece indicar que los pívots seguirán evolucionando. A medida que el baloncesto continúe avanzando hacia una mayor versatilidad y la habilidad para lanzar desde el perímetro se convierta en una cualidad casi obligatoria, los "big men" de la NBA tendrán que seguir adaptándose para sobrevivir y prosperar en un juego que se ha alejado de la pintura y se ha expandido hacia el perímetro.</p>
+    `,
+    category: `players` ,
+  },
+  {
+    id: '6',
+    title: 'Los Jugadores con las Mejores Temporadas Individuales en la Historia de la NBA',
+    description: 'Un analisis de las mejores temporadas vistas individualmente',
+    imageUrl: 'https://static01.nyt.com/images/2023/04/13/multimedia/16nba-jordan-retirement-ESP-1/13nba-jordan-retirement-01-jczw-superJumbo.jpg',
+    content: `
+    <h1>1. Michael Jordan – Temporada 1995-1996 (Chicago Bulls)</h1>
+    <p>Estadisticas</p>
+    <ul>
+    <li>Puntos por partido: 30.4</li>
+    <li>Porcentaje de tiros de campo: 49.5%</li>
+    <li>Premios: MVP de la temporada regular y MVP de las Finales</li>
+    </ul>
+    <img src="https://64.media.tumblr.com/28e5edf3687a83295464e2f8eb8838d9/tumblr_ouiwiyswas1uf9qj8o1_500.jpg" alt="Logo de los Lakers" />
+    <p>La temporada 1995-1996 de Michael Jordan es una de las más legendarias en la historia del baloncesto. Después de regresar de su retiro, Jordan lideró a los Chicago Bulls a un récord histórico de 72 victorias y 10 derrotas en la temporada regular, un récord que permaneció imbatido hasta 2016. Su dominio en ambos lados de la cancha fue incomparable, con su capacidad ofensiva y defensiva siendo claves para ganar su cuarto campeonato de la NBA. Su impacto fue tal que se llevó tanto el MVP de la temporada regular como el MVP de las Finales, consolidando su estatus como el mejor jugador del planeta en ese momento.</p>
+    <p>Esta temporada catapultó a Jordan a un nivel completamente diferente de grandeza. No solo dominaba en la cancha, sino que también se convirtió en un icono global del deporte. Su determinación, su ética de trabajo y su mentalidad ganadora definieron la era de los Bulls y dejaron una huella imborrable en la NBA.</p>
+
+    <h1>2. Russell Westbrook – Temporada 2016-17</h1>
+    <p>Estadisticas</p>
+    <ul>
+    <li>Puntos por partido: 31.6</li>
+    <li>Rebotes por partido: 10.7</li>
+    <li>Asistencias por partido: 10.4</li>
+    <li>Premios: MVP de la temporada regular</li>
+    </ul>
+    <img src="https://www.si.com/.image/t_share/MTgwMjA1NjM1MzIzODMxNjQw/westbrook-russell.jpg" alt="Logo de los Lakers" />
+    <p>La temporada 2016-2017 de Russell Westbrook es recordada como una de las actuaciones individuales más electrizantes en la historia de la NBA. Westbrook se convirtió en el primer jugador desde Oscar Robertson en promediar un triple-doble durante toda una temporada. Su energía y explosividad en la cancha fueron imposibles de igualar. Lideró a los Thunder a los playoffs después de la salida de Kevin Durant, demostrando que podía cargar con la franquicia en solitario. Además, estableció un nuevo récord de triples-dobles en una temporada con 42.</p>
+    <p>La hazaña de Westbrook de promediar un triple-doble cambió la percepción sobre lo que un jugador puede lograr individualmente. Aunque su equipo no ganó el campeonato, su temporada fue un testimonio de su increíble capacidad atlética y mentalidad agresiva.</p>
+    
+    <h1>3. LeBron James – Temporada 2012-2013 (Miami Heat)</h1>
+    <p>Estadisticas</p>
+     <ul>
+    <li>Puntos por partido: 26.8</li>
+    <li>Rebotes por partido: 8.0</li>
+    <li>Asistencias por partido: 7.3</li>
+    <li>Premios: MVP de la temporada regular</li>
+    </ul>
+    <img src="https://compote.slate.com/images/4ba001b6-f0ce-4dda-9f47-40029b079f38.jpg" alt="Logo de los Lakers" />
+    <p> LeBron James tuvo una de las temporadas más completas de su carrera en 2012-2013. Llevó al Miami Heat a un récord de 66-16, que incluía una racha de 27 victorias consecutivas, la segunda más larga en la historia de la NBA. LeBron fue una máquina ofensiva y defensiva, liderando a su equipo en casi todas las categorías estadísticas importantes. Terminó ganando su cuarto MVP de la temporada regular y llevó al Heat a su segundo campeonato consecutivo, además de ganar el MVP de las Finales.</p>
+    <p>La temporada 2012-2013 consolidó a LeBron como uno de los mejores jugadores de todos los tiempos. Su dominio en ambos extremos de la cancha y su capacidad para mejorar a todos los que lo rodeaban lo hicieron casi imparable.</p>
+
+    <h1>4. Shaquille O'Neal – Temporada 1999-2000 (Los Angeles Lakers)</h1>
+
+    
+    
+    
+    
+    `,
+    category: `players` ,
+  },
 ];
 
 export default newsdata;
