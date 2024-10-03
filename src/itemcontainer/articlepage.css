@@ -32,3 +32,17 @@ img{
   margin-bottom: 20px;
   color: #333;
 }
+.article-date {
+  font-size: 14px; 
+  color: #888; 
+  margin-bottom: 10px; 
+  text-align: left; 
+}
+
+.article-author {
+  font-size: 14px; 
+  color: #888; 
+  margin-top: 30px; 
+  text-align: right; 
+}
+

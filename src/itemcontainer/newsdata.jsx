@@ -4,6 +4,8 @@ const newsdata = [
     id: '1',
     title: 'Top 30 mejores jugadores de la NBA',
     description: 'Por opinion se enumernan los mejores jugadores de la NBA',
+    date: 'Agosto 10, 2024',
+    author: 'Guido Bozzano' ,
     imageUrl: 'https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2023-07/GFX-1082%20NBA%20Players%20ranked%20FTR.jpg?h=920929c4&itok=9Wu93HkO',
     content: `
     <h1>Los 30 Mejores Jugadores de la NBA en 2024/25</h1>
@@ -201,6 +203,8 @@ const newsdata = [
     id: '2',
     title: 'Equipos Sorpresa en la NBA: ¿Quién Dará el Batacazo esta Temporada?',
     description: 'Analisis de los equipos',
+    date: 'Agosto 29, 2024',
+    author: 'Guido Bozzano' ,
     imageUrl: 'https://www.basketballnetwork.net/.image/t_share/MTk0ODU4NTQwNjM1MDA2MTE0/new-orleans-pelicans.jpg',
     content: `
       <h1>Equipos Sorpresa en la NBA: ¿Quién Dará el Batacazo esta Temporada?</h1>
@@ -229,6 +233,8 @@ const newsdata = [
     id: '3',
     title: 'La Última Oportunidad de LeBron para un Anillo',
     description: ' Una exploración sobre el impacto de LeBron James en los Lakers.',
+    date: 'Septiembre 7, 2024',
+    author: 'Guido Bozzano' ,
     imageUrl: 'https://estaticos-cdn.prensaiberica.es/clip/12c5ff3d-6777-430a-9b6a-a4d6278492c5_alta-libre-aspect-ratio_default_0.jpg',
     content: `
     <h1>Los Ángeles Lakers: La Última Oportunidad de LeBron para un Anillo</h1>
@@ -254,6 +260,8 @@ const newsdata = [
     id: '4',
     title: 'La Dinastía Incomparable: Los Boston Celtics de los Años 60',
     description: 'Analisis a profundidad de una de las mejores dinastias',
+    date: 'Septiembre 10, 2024',
+    author: 'Guido Bozzano' ,
     imageUrl: 'https://img.europapress.es/fotoweb/fotonoticia_20200523094732_1200.jpg',
     content: `
     <p>En la década de los 60, los Boston Celtics dominaron la NBA de una manera nunca antes vista en la historia del baloncesto. Bajo la dirección del legendario entrenador Red Auerbach y liderados en la cancha por Bill Russell, los Celtics no solo establecieron una dinastía, sino que también redefinieron cómo se jugaba el baloncesto. Ganaron 9 campeonatos en 10 años, convirtiéndose en el estándar de excelencia y competitividad en el deporte.</p>
@@ -281,6 +289,8 @@ const newsdata = [
     id: '5',
     title: 'El renacimiento del "big men" en la NBA:',
     description: 'Una mirada a cómo los pívots y jugadores altos, como Joel Embiid y Nikola Jokić, han redefinido el papel del centro en el juego moderno.',
+    date: 'Septiembre 17, 2024',
+    author: 'Guido Bozzano' ,
     imageUrl: 'https://cdn.vox-cdn.com/thumbor/UwwW0OXT3ImkieWobBls73LCPFw=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390257/1239219237.jpg',
     content: `
     <h1>El Renacimiento de los "Big Men" en la NBA: De Gigantes Tradicionales a Jugadores Versátiles</h1>
@@ -316,6 +326,8 @@ const newsdata = [
     id: '6',
     title: 'Los Jugadores con las Mejores Temporadas Individuales en la Historia de la NBA',
     description: 'Un analisis de las mejores temporadas vistas individualmente',
+    date: 'Octubre 1, 2024',
+    author: 'Guido Bozzano' ,
     imageUrl: 'https://static01.nyt.com/images/2023/04/13/multimedia/16nba-jordan-retirement-ESP-1/13nba-jordan-retirement-01-jczw-superJumbo.jpg',
     content: `
     <h1>1. Michael Jordan – Temporada 1995-1996 (Chicago Bulls)</h1>
@@ -381,6 +393,43 @@ const newsdata = [
     
     `,
     category: `players` ,
+  },
+  {
+    id: '7',
+    title: 'Predicciones para la Temporada 2024-25 de la NBA: Lo que esperamos ver este año',
+    description: 'A pocos días del inicio de una emocionante temporada, analizamos las claves que definirán el rumbo de la NBA.',
+    date: 'Octubre 3, 2024',
+    author: 'Guido Bozzano' ,
+    imageUrl: 'https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-09/NBA-Players-Rankings%20%282%29.jpg?h=920929c4&itok=HBxT-7rb',
+    content: `
+    <p>La temporada 2024-2025 de la NBA está a punto de comenzar, y con ella, una nueva serie de historias, enfrentamientos épicos y sorpresas. Desde jugadores que buscan consolidar su legado hasta equipos que intentan alcanzar el siguiente nivel, esta temporada promete ser una de las más emocionantes de los últimos años. A tan solo 20 días del salto inicial, es el momento perfecto para hacer algunas predicciones sobre lo que podríamos esperar.</p>
+    <h1> Candidatos al título</h1>
+    <p>A pocos días del inicio de la temporada, los fanáticos comienzan a soñar con cuál será el equipo que levantará el trofeo en junio. Aunque predecir el campeón sin haber visto un solo partido puede ser una tarea arriesgada, en NBA Blog nos gusta mojarnos y lanzar nuestras predicciones. Vamos a analizar tres franquicias que, a nuestro criterio, tienen todas las herramientas para llegar a las Finales.</p>
+    <h1>1. New York Knicks</h1>
+    <p>Es difícil no emocionarse con los Knicks este año. La reciente incorporación de Karl-Anthony Towns (KAT) forma un trío potente junto a Jalen Brunson y Mikal Bridges. Con la salida de Julius Randle, los Knicks han ajustado piezas clave para construir un equipo más balanceado. Si a eso le sumamos el aporte desde el banco de OG Anunoby y Josh Hart, este equipo tiene todo para dar la sorpresa. Si el entrenador puede maximizar el talento de esta plantilla, no sería descabellado pensar en los Knicks llegando lejos en los playoffs, e incluso luchando por el título.</p>
+    <img src="https://i0.wp.com/theleadsm.com/wp-content/uploads/2024/09/katknicks-1.png?fit=3200%2C1800&ssl=1" alt="Logo de los Lakers" />
+    <h1>2. Boston Celtics</h1>
+    <p>Los actuales campeones no se conforman con un solo anillo. Con la dupla estelar de Jayson Tatum y Jaylen Brown, los Celtics buscan repetir como campeones y afianzar su legado en la historia de la NBA. La plantilla se mantiene prácticamente intacta, lo que les otorga continuidad y química, dos factores fundamentales para pelear por un 'back-to-back'. Además, su profundo roster les permite ser uno de los equipos más completos de la liga, preparados para afrontar cualquier desafío que se les presente.</p>
+    <h1>3. Denver Nuggets</h1>
+    <p>El MVP actual y considerado por muchos el mejor jugador del mundo, Nikola Jokić, vuelve a la carga con su equipo, los Denver Nuggets. Aunque algunos nombres importantes de su equipo campeón han salido, Jokić sigue siendo el corazón del equipo y eso siempre los convierte en contendientes. Los Nuggets han demostrado que con el serbio al mando pueden superar cualquier adversidad, y este año no será la excepción. Aquí, en NBA Blog, los esperamos al menos en las Finales de Conferencia, y no sería una sorpresa si llegan incluso más lejos.</p>
+    <img src="https://images.ecestaticos.com/D9WC_NvpwxQeift2s4oJidkR01w=/0x0:972x546/1338x752/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4bd%2F404%2F020%2F4bd40402037379bdf07022de743caad0.jpg" alt="Logo de los Lakers" />
+    <h1>Menciones de Honor</h1>
+    <p>Aunque hemos destacado a tres equipos principales, hay otros dos que merecen estar en la conversación. Los Oklahoma City Thunder, liderados por Shai Gilgeous-Alexander, tienen una plantilla joven y prometedora que dará mucha batalla esta temporada. Y no podemos dejar fuera a los Dallas Mavericks, que con Luka Dončić y Kyrie Irving como sus principales figuras también tienen el potencial de dar un salto importante y competir al más alto nivel.</p>
+    <img src="https://cdn.vox-cdn.com/thumbor/l87ydHelUhRKV2CR2Ajlco6DRYA=/0x0:1200x800/1200x800/filters:focal(502x55:694x247)/cdn.vox-cdn.com/uploads/chorus_image/image/71943507/KyrieMavsTrade_AP_Ringer.0.jpg" alt="Logo de los Lakers" />
+    <h1>Carrera por el MVP: Temporada 2024-2025</h1>
+    <p>El premio al Jugador Más Valioso (MVP) es uno de los reconocimientos más prestigiosos en la NBA, y predecir quién se lo llevará siempre es complicado. Sin embargo, aquí en NBA Blog, no tememos mojarnos e intentar adivinar qué estrella tendrá la mejor temporada. Aunque es imposible saberlo con certeza, nos basaremos en las tendencias y en los jugadores que, según nuestro criterio, tienen más posibilidades de llevarse este galardón. Vamos a destacar a tres jugadores que consideramos como los principales candidatos al MVP.</p>
+    <h1>1. Luka Dončić</h1>
+    <p>Este año es el momento de Luka Dončić. Tras varias temporadas coqueteando con el premio, creemos que esta será la temporada en la que finalmente consiga su primer MVP. Con su habilidad para dominar el juego y ser una fuerza imparable tanto anotando como asistiendo, Dončić está listo para dar el salto definitivo. Además, si los Mavericks logran clasificarse bien para los playoffs, eso impulsará aún más su candidatura. Luka tiene todas las herramientas para hacer historia, y en NBA Blog apostamos por él como el próximo MVP.</p>
+    <h1>2. Nikola Jokić</h1>
+    <p>El actual MVP, Nikola Jokić, sigue siendo una amenaza constante para ganar este premio nuevamente. Aunque ya ha ganado múltiples MVPs, el serbio continúa jugando a un nivel extraordinario. Si mantiene su consistencia y liderazgo con los Denver Nuggets, no sería sorpresa verlo entre los finalistas una vez más. Sin embargo, creemos que esta vez se quedará en las puertas de lograr otro MVP consecutivo, pero sin duda seguirá dominando la liga con su estilo único de juego.</p>
+    <h1>3. Jalen Brunson</h1>
+    <p>Una apuesta un poco más arriesgada, pero no menos interesante, es Jalen Brunson. Con la expectativa de una gran temporada para los New York Knicks, Brunson está en una posición perfecta para dar un salto de calidad. Si logra llevar a los Knicks a la cima del Este y seguir mejorando su juego, Brunson podría ser una gran sorpresa en la conversación por el MVP. Su liderazgo en la cancha y su capacidad para hacer que el equipo funcione lo hacen un candidato intrigante para este galardón.</p>
+    <img src="https://i0.wp.com/theknickswall.com/wp-content/uploads/2023/09/tke-feat-brunson-next-step.jpg?fit=2560%2C1280&ssl=1" alt="Logo de los Lakers" />
+
+
+    `,
+    category: 'opinion'
+
   },
 ];
 
