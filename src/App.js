@@ -2,6 +2,7 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 import Navbar from './Navbar/navbar';
+import './App.css';
 import Footer from './footer/footer';
 import CategoryPage from './itemcontainer/categorypage';
 import ArticlePage from './itemcontainer/articlepage';

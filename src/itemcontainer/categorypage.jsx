@@ -1,6 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import Card from '../itemcontainer/card';
+import './categorypage.css';
 import newsdata from '../itemcontainer/newsdata';
 
 function CategoryPage() {
