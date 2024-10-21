@@ -472,6 +472,29 @@ const newsdata = [
     category: 'history'
 
   },
+  {
+    id: '9',
+    title: 'El MVP mas joven de la historia.',
+    description: 'Acompañanos a repasar la carrera de uno de los jugadores mas queridos de la NBA.',
+    date: 'Octubre 13, 2024',
+    author: 'Guido Bozzano' ,
+    imageUrl: 'https://www.noticiasbq.com/wp-content/uploads/2024/09/75389433007-usatsi-5301498.webp',
+    content: `
+    <h1>El MVP mas joven de la NBA: Derrick Rose</h1>
+    <p>Derrick Rose, conocido por su explosividad y habilidades en la cancha, ha anunciado su retiro después de 16 temporadas en la NBA. Desde sus comienzos en los Chicago Bulls hasta su lucha contra las lesiones, Rose ha dejado una huella imborrable en el mundo del baloncesto.</p>
+    <img src="https://i.ytimg.com/vi/U58klDRWvXU/maxresdefault.jpg" alt="Logo de los Lakers" />
+    <p>Rose fue seleccionado por los Chicago Bulls como la primera selección global en el draft de la NBA de 2008. Durante su tercera temporada, en 2011, Rose se convirtió en el jugador más joven en ganar el premio al Jugador Más Valioso (MVP) de la NBA. Esa temporada, lideró a los Bulls a un récord de 62 victorias y 20 derrotas, promediando 25 puntos, 7.7 asistencias y 4.1 rebotes por partido.</p>
+    <p>Durante su tiempo con los Chicago Bulls, Derrick Rose se consolidó rápidamente como uno de los jugadores más emocionantes y dinámicos de la NBA. En la temporada 2010-2011, Rose llevó a los Bulls a un impresionante récord de 62-20, asegurando el primer puesto en la Conferencia Este. Su habilidad para anotar, asistir y liderar en momentos cruciales fue fundamental para el éxito del equipo. En los playoffs de ese año, los Bulls llegaron a las Finales de la Conferencia Este, pero fueron eliminados por los Miami Heat de LeBron James y Dwyane Wade en cinco juegos.</p>
+    <p>Lamentablemente, la carrera de Rose se vio obstaculizada por una serie de lesiones graves. En los playoffs de 2012, sufrió una lesión en el ligamento cruzado anterior (ACL) de su rodilla izquierda, lo que lo dejó fuera de juego por toda la temporada 2012-2013. A pesar de regresar, continuó enfrentando problemas de salud que lo obligaron a adaptarse y reinventarse constantemente.</p>
+    <img src="https://library.sportingnews.com/2022-01/derrick-rose_1pkbwnjgpi11m13babu4rg7equ.jpg" alt="Logo de los Lakers" />
+    <p>A pesar de las adversidades, Rose nunca dejó de luchar y siguió siendo una inspiración para muchos. Jugó para varios equipos, incluidos los New York Knicks, Cleveland Cavaliers, Minnesota Timberwolves y  Memphis Grizzlies. </p>
+    <p>En su anuncio de retiro el 26 de septiembre de 2024, Rose agradeció a sus fanáticos y expresó su deseo de enfocarse en su familia. Su legado perdurará no solo por sus logros en la cancha, sino también por su resiliencia y espíritu indomable.</p>
+    <img src="https://cdn.britannica.com/00/261800-050-08DCA28C/memphis-grizzlies-player-derrick-rose-handles-the-game-against-denver-nuggets-october-27-2023.jpg" alt="Logo de los Lakers" />
+    <p>Al anunciar su retiro, Derrick Rose dejó una profunda huella en el corazón de todos los aficionados al baloncesto. Su historia, marcada por triunfos y desafíos, es un testamento a su resiliencia y pasión. Rose no solo inspiró a sus compañeros de equipo, sino también a millones de seguidores en todo el mundo, quienes vieron en él una luz de esperanza y un ejemplo de superación. Aunque su tiempo en la cancha ha llegado a su fin, el legado de Derrick Rose perdurará en cada cancha donde se juegue baloncesto y en cada corazón que alguna vez latió más rápido al verlo jugar.</p>    
+    `,
+    category: 'history'
+
+  },
 ];
 
 export default newsdata;
